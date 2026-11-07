@@ -1,0 +1,8 @@
+# Compiled binary files
+*.exe
+*.out
+*.o
+
+# Editor directories
+.vscode/
+.zed/
